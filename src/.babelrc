@@ -1,0 +1,8 @@
+//JSON 
+{
+    "presets": [ //plugins for babel to compile
+        "@babel/env",
+        "@babel/react",
+        "@babel/typescript"
+    ]
+}
